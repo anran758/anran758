@@ -4,7 +4,8 @@
 
 > A code porter
 
-🇨🇳 China Shenzhen ・ 🔧 Web developer
+🇨🇳 China Guangzhou ・ 🔧 Web developer  
+🔨 Technology stack: Vue / React / Angular / Node.js 
 
-💡 Home: [https://anran758.github.io/](https://anran758.github.io/)  
+💡 Homepage: [https://anran758.github.io/](https://anran758.github.io/)  
 ✏️ Blog: [https://anran758.github.io/blog](https://anran758.github.io/blog)  
