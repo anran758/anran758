@@ -1,11 +1,23 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=anran758&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=false" />
+<h2 align="center">Hi there, 👋 I'm Anron! 😎</h2>
 
-### Hello 👏
+<p align="center">
+  <a href="https://anran758.github.io/">Homepage</a> ·
+  <a href="https://anran758.github.io/blog/">Blog</a> ·
+  <a href="https://anran758.github.io/front-end-lab/">Web lab</a>
+</p>
 
-> A code porter
+<div>
+  <a href="/" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anran758&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true" />
+  </a>
+  <a href="/" align="right">
+    <img src="https://github-readme-stats.vercel.app/api?username=anran758&count_private=true&show_icons=true&icon_color=222&title_color=0366d6&text_color=586069&bg_color=fff&hide=issues&hide_border=true&include_all_commits=true" />
+  </a>
+</div>
 
-🇨🇳 China Guangzhou ・ 🔧 Web developer  
-🔨 Technology stack: Vue / React / Angular / Node.js 
+<section style="font-family: consolar;">
 
-💡 Homepage: [https://anran758.github.io/](https://anran758.github.io/)  
-✏️ Blog: [https://anran758.github.io/blog](https://anran758.github.io/blog)  
+- 🔧 Web developer  
+- 🔨 Technology stack: Vue / React / Angular / Node.js
+
+</section>
