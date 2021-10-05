@@ -1,6 +1,6 @@
 <!-- reference: https://github.com/anuraghazra/github-readme-stats -->
 
-<h2 align="center">Hi there, 👋 I'm Anron! 😎</h2>
+<h2 align="center">Hi there, 👋 I'm Danny! 😎</h2>
 
 <p>
   <img style="min-width: 240px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anran758&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true&hide=html&langs_count=7" />
