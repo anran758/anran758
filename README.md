@@ -1,6 +1,6 @@
 <!-- reference: https://github.com/anuraghazra/github-readme-stats -->
 
-<h2 align="center">Hi there, 👋 I'm Danny (anran758)!</h2>
+<h2 align="center">👋 Hi there, I'm Danny (anran758)! 👨‍💻</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anran758&count_private=true&theme=transparent&show_icons=true&include_all_commits=true&hide=contribs" alt="GitHub Stats" />
@@ -9,13 +9,13 @@
 
 <br />
 
-**About Me**
+**🌟 About Me**
 
 - 🎉 **Web Developer / Front-End Engineer / Full-Stack Development**
 - 📍 **Guangzhou, China**
 - 🔍 **Actively seeking new job opportunities!**
 
-**Languages & Frameworks**
+**🚀 Languages & Frameworks**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript)
@@ -24,13 +24,13 @@
 ![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-000?style=flat-square&logo=angular&logoColor=white)
 
-**Mini Program & Cross-Platform Development**
+**🌐 Mini Program & Cross-Platform Development**
 
 ![Wechat Mini program](https://img.shields.io/badge/Native-Mini_Program-blue?style=flat&logo=wechat)
 ![uniapp](https://img.shields.io/badge/vue.js-uniapp-blue?style=flat&logo=vue.js)
 ![知晓云](https://img.shields.io/badge/Cloud_develop-知晓云-blue?style=flat&logo=icloud)
 
-**Tools & Platforms**
+**🛠️ Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git)
 ![Hg](https://img.shields.io/badge/-Mercurial(hg)-000?style=flat-square&logo=Mercurial)
